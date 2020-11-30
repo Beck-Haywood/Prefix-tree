@@ -1,4 +1,4 @@
-from prefix-tree import PrefixTree, PrefixTreeNode
+from prefixtree import PrefixTree, PrefixTreeNode
 import unittest
 
 
